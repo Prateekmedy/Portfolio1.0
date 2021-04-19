@@ -3,34 +3,33 @@
 
 This is my personal first static single page web portfolio developed from HTML, CSS, JS & some parallax js libaries.
 
-
 #### Tech Stack: 
 
 JQuery.</br>
 CSS/HTML.</br>
 JS libraries (scrollorama & bootstrap).</br>
 
+##### For check out, you can view it here. 👇👇👇 <br />
 
-
-##### For check out, you can view ir here. 👍👍👍
-
-https://gateway.ipfs.io/ipfs/QmXCq5BM2HFDKyDjSFRSTbekWaHieBy2LD5Q1JTFzk6svy/
+http://portfolio1.0.s3-website.ap-south-1.amazonaws.com/
 
 ---
 
 #### Some of the ScreenShots:
 
 ##### Portfolio1.0 Home Section
-![Portfolio1.0 Home Section](https://images2.imgbox.com/2e/7d/zux4F3wd_o.png)
+![Portfolio1.0 Home Section](https://gateway.ipfs.io/ipfs/QmTBtuuFVJN89p8ZakZYmbJXRNHEE4am6obzPwtqssQnKm/)
 
 ##### Portfolio1.0 About Section
-![Portfolio1.0 About Section](https://images2.imgbox.com/30/f6/2kkRyBJV_o.gif)
+![Portfolio1.0 About Section](https://gateway.ipfs.io/ipfs/QmSe4ezCSrnSq83ETsCG5mQLw7o6wpFP8CJAZkYkhw5BDP/)
 
 ##### Portfolio1.0 Portfolio Section
-![Portfolio1.0 Portfolio Section](https://gateway.ipfs.io/ipfs/QmeycH3hX3pDuM8ee6cN5ztqdG3FAzde7RfTeT9mQAZdLp/)
+![Portfolio1.0 Portfolio Section](https://gateway.ipfs.io/ipfs/QmSd11enrvaUCLydqGUgu45pzY9EuGVY4LnGuj6Q2PSEtF/)
+<br/>
+![Portfolio1.0 Portfolio Section](https://gateway.ipfs.io/ipfs/QmRhPyWEXtoNekiEcMh1GEKedg6hFk9S3ZLLUrNbMweAmu/)
 
 ##### Portfolio1.0 Contact Section
-![Portfolio1.0 Contact Section](https://gateway.ipfs.io/ipfs/Qmdvo8qPpoXmEBoKFCAYVVoDnvHH71d2qyWkwWkuD2brdj/)
+![Portfolio1.0 Contact Section](https://gateway.ipfs.io/ipfs/QmcBNz3H6xQ9NrBuH3pJCzfwKLkHh7vnWgd5vSHuEAEVCZ/)
 
 ---
 
