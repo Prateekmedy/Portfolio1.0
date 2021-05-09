@@ -18,20 +18,20 @@ http://portfolio1.0.s3-website.ap-south-1.amazonaws.com/
 #### Some of the ScreenShots:
 
 ##### Portfolio1.0 Home Section
-![Portfolio1.0 Home Section](https://gateway.ipfs.io/ipfs/QmTBtuuFVJN89p8ZakZYmbJXRNHEE4am6obzPwtqssQnKm/)
+<img src="https://images2.imgbox.com/f8/78/upFlzoi6_o.png" alt="Portfolio1.0 Home Section" height="290" width="601"/>
 
 ##### Portfolio1.0 About Section
-![Portfolio1.0 About Section](https://gateway.ipfs.io/ipfs/QmSe4ezCSrnSq83ETsCG5mQLw7o6wpFP8CJAZkYkhw5BDP/)
+<img src="https://images2.imgbox.com/2a/45/uQ3onUP9_o.png" alt="Portfolio1.0 About Section" height="290" width="601"/>
 
 ##### Portfolio1.0 Portfolio Section
-![Portfolio1.0 Portfolio Section](https://gateway.ipfs.io/ipfs/QmSd11enrvaUCLydqGUgu45pzY9EuGVY4LnGuj6Q2PSEtF/)
+<img src="https://images2.imgbox.com/ea/5e/YplanSHb_o.png" alt="Portfolio1.0 Portfolio Section" height="290" width="601"/>
 <br/>
 <br/>
 <br/>
-![Portfolio1.0 Portfolio Section](https://gateway.ipfs.io/ipfs/QmRhPyWEXtoNekiEcMh1GEKedg6hFk9S3ZLLUrNbMweAmu/)
+<img src="https://images2.imgbox.com/3a/d8/TxfzMngU_o.gif" alt="Portfolio1.0 Portfolio Section" height="290" width="601"/>
 
 ##### Portfolio1.0 Contact Section
-![Portfolio1.0 Contact Section](https://gateway.ipfs.io/ipfs/QmcBNz3H6xQ9NrBuH3pJCzfwKLkHh7vnWgd5vSHuEAEVCZ/)
+<img src="https://images2.imgbox.com/14/88/lyqdcYwm_o.png" alt="Portfolio1.0 Contact Section" height="290" width="601"/>
 
 ---
 
