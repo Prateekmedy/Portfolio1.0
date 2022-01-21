@@ -11,7 +11,7 @@ JS libraries (scrollorama & bootstrap).</br>
 
 ##### For check out, you can view it here. 👇👇👇 <br />
 
-http://portfolio1.0.s3-website.ap-south-1.amazonaws.com/
+https://prateekmedy.github.io/Portfolio1.0/
 
 ---
 
